@@ -100,3 +100,7 @@ a {
 .description {
   padding-top: 20px;
 }
+
+.container {
+  padding: 0;
+}
