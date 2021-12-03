@@ -1,0 +1,102 @@
+body {
+  margin: 60px auto;
+  max-width: 500px;
+  color: #6c757d;
+  font-family: Fira Mono;
+}
+
+h1 {
+  font-size: 14px;
+  margin: 30px 0 0 0;
+  font-weight: 400;
+  padding-left: 20px;
+}
+
+img {
+  max-width: 80%;
+  height: auto;
+  display: block;
+  padding: 20px 0 0 0;
+}
+a {
+  text-decoration: none;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.search {
+  margin-top: 1px;
+}
+
+.btn {
+  display: inline;
+  position: relative;
+  left: -15px;
+  margin: 0;
+}
+.forecast {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+}
+
+.day-time {
+  font-size: 14px;
+  margin: 0 0 60px 0;
+  padding-left: 30px;
+}
+
+.day {
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+  position: relative;
+}
+.search-bar {
+  margin-top: 10px;
+}
+.temp {
+  position: relative;
+  left: 4px;
+  font-size: 12px;
+}
+
+.icon {
+  font-size: 18px;
+  position: relative;
+  left: 10px;
+  padding: 4px;
+}
+
+.row {
+  position: relative;
+  left: 5px;
+  padding-bottom: 10px;
+}
+
+.sun {
+  display: block;
+  margin: 0 auto;
+  min-width: 100px;
+}
+
+.humidity {
+  font-size: 20px;
+}
+
+.temperature {
+  font-size: 80px;
+  padding-left: 14px;
+}
+
+.units {
+  position: relative;
+  top: -40px;
+}
+
+.description {
+  padding-top: 20px;
+}
